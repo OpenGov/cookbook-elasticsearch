@@ -2,6 +2,11 @@
 
 ## [Unreleased](https://github.com/elastic/cookbook-elasticsearch/tree/HEAD)
 
+## [v1.0.1](https://github.com/OpenGov/cookbook-elasticsearch/tree/v1.1.0)
+**Implemented enhancements:**
+
+- Loosen cookbook dependency restrictions
+
 ## [v1.0.0](https://github.com/elastic/cookbook-elasticsearch/tree/v1.0.0) (2015-07-16)
 [Full Changelog](https://github.com/elastic/cookbook-elasticsearch/compare/v0.3.13...v1.0.0)
 
